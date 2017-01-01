@@ -23,7 +23,7 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 10,
     "versionPublish": "3.10.4",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/pluto-128x128-3.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
